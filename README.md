@@ -1,10 +1,10 @@
-# TEAM NAME - Greedy2Code
+### TEAM NAME - Greedy2Code
 
-# TEAM NO. - 6090
+### TEAM NO. - 6090
 
-# PROJECT NAME - YOUR SAATHI ON THE GO
+### PROJECT NAME - YOUR SAATHI ON THE GO
 
-# TEAM MEMBERS - 
+### TEAM MEMBERS - 
 1. Shreya  Sharma
 2. Sneha Singh
 3. Samiksha Gupta
@@ -12,7 +12,7 @@
 
 
 
-# COLLEGE - KIET Group Of Institutions
+### COLLEGE - KIET Group Of Institutions
 
 
 
@@ -57,7 +57,7 @@ TravelAssist is designed to make your journeys safer, more convenient, and memor
 
 ## Problem Statement
 
-Travelers, especially women, children, the elderly, and specially-abled individuals, often face safety and accessibility challenges when exploring remote places. It's essential to provide them with tailored assistance and support during their journeys. Our platform addresses these challenges.
+Frequently, individuals such as children, the elderly, and women find themselves traveling alone. In these situations, it is common for children to feel frightened, and women to experience a sense of insecurity. Additionally, when elderly individuals travel solo, there is uncertainty about whether they have their necessary emergency medications readily available. Similarly, for people with disabilities, traveling alone presents challenges, as they often lack assurance regarding the availability of suitable amenities at their destination.
 
 ## Getting Started
 
